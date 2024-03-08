@@ -1,0 +1,19 @@
+{
+  "name": "81-dars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "absolutify": "^0.1.0",
+    "absoluty": "^0.0.3",
+    "express": "^4.18.3",
+    "puppeteer": "^22.4.0"
+  }
+}
